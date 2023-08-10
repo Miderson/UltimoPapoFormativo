@@ -60,6 +60,10 @@
 .container__titulo{
     display: none;
 }
+.opções{
+    display: none;
+}
+
 
 @media screen and (min-width: 1024px){
 
